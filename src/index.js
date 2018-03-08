@@ -9,7 +9,7 @@ import registerServiceWorker from './registerServiceWorker';
 
 const initialState = {
   titulo: 'Organiza aquí tus tareas',
-  subtitle: 'Escribe aquí tus tareas:  ',
+  subtitle: 'Escribe aquí tus tareas para poder organizarlas:  ',
   addForm: {
     title_task: 'sfsf'
   },
