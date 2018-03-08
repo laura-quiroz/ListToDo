@@ -1,0 +1,16 @@
+.todo {
+  max-width: 480px;
+  margin: 0 auto;
+  padding: 5%;
+}
+
+.Tasks_list{
+  border: 1px solid #ccc;
+  border-radius: 7px;
+  padding: 1%;
+}
+
+.todo2{
+  width: 100%;
+  text-align: center;
+}
