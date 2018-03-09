@@ -39,6 +39,16 @@ const datos =[
   title_task: 'Lavar los platos',
   completed: false
 },
+{
+  id: 9,
+  title_task: 'Hacer tarea',
+  completed: false
+},
+{
+  id: 10,
+  title_task: 'Leer un libro',
+  completed: false
+},
 ]
 
 export default datos
